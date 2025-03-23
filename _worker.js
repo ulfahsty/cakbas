@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "cakbas.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "cakbas"; // Ganti dengan nama workers kalian
-const apiKey = "57ff97e33d38992c3bf6b7b73d9eea7bf861b"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "tUY6ucNVxl6o3YPoD6L8YBfjPDZo6M6wwpqP2kGZ"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "basuki2@basuki-online.web.id"; // Ganti dengan email yang kalian gunakan
 const accountID = "307e7c18186cce4114374eb491a8ac51"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "ec28f2430a0c4ba199b79d358f5ff0c3"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
